@@ -1,4 +1,5 @@
-#This is a spring boot application which expose Endpoint to get the data using filters like country and date.
+#Covid API
+This is a spring boot application which expose Endpoint to get the data using filters like country and date.
 
 COVID-19 data can be pulled from from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
 
